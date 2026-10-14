@@ -39,9 +39,6 @@ Note: To execute the pipeline locally, users must provide their own raw CSV even
 1. Clone the repository:
    git clone https://github.com/ekaingutierrez/acb-advanced-analytics.git
 
-2. Install dependencies:
-   pip install -r requirements.txt
-
-3. Place your raw match CSV files inside a folder named `/partidos` in the root directory.
-
-4. Run the analytical notebooks sequentially from 01 to 03.
+2. Place your raw match CSV files inside a folder named `/partidos` in the root directory.
+   
+3. Run the analytical notebooks sequentially from 01 to 03.
